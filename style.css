@@ -68,19 +68,19 @@ ul {
 }
 
 .card:nth-child(1) {
-  --hue: 1;
-  --saturation: 80.26%;
+  --hue: 15;
+  --saturation: 82.26%;
   --lightness: 51.37%;
 }
 
 .card:nth-child(2) {
-  --hue: 250.34;
+  --hue: 221.34;
   --saturation: 95.9%;
   --lightness: 61.76%;
 }
 
 .card:nth-child(3) {
-  --hue: 777.69;
+  --hue: 3338.69;
   --saturation: 100%;
   --lightness: 48.04%;
 }
